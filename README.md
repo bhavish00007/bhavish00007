@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI chatbots, automation tools, and full-stack web applications<br><br>👯 I’m looking to collaborate on Open Source projects, Web Development, and AI-based solutions<br><br>🤝 I’m looking for help with scalable backend architecture, system design, and real-world production practices<br><br>🌱 I’m currently learning advanced full-stack development, system design, and building scalable AI solutions<br><br>💬 Ask me about Next.js, AI chatbots, react,api integration and building projects from idea to deployment<br><br>⚡ Fun fact: I run an AI automation service where I build chatbots and tools that help businesses handle customers and generate leads 24/7
+🔭 I’m currently working on AI chatbots, automation tools, and full-stack web applications<br><br>👯 I’m looking to collaborate on Open Source projects, Web Development, and AI-based solutions<br><br>🌱 I’m currently learning advanced full-stack development, system design, and building scalable AI solutions<br><br>💬 Ask me about Next.js, AI chatbots, react,api integration and building projects from idea to deployment<br><br>⚡ Fun fact: I run an AI automation service where I build chatbots and tools that help businesses handle customers and generate leads 24/7
 
 
 ## 🌐 Socials:
@@ -24,6 +24,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhavish00007&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bhavish00007&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish00007&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
