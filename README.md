@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 AI Property Operations Agent and AI Chatbot Solutions for Businesses<br>👯 Open Source Projects, AI-based Web Apps<br>🤝 Scaling SaaS Applications, Backend Architecture, and AI System Design<br>🌱 MERN, Next.js, System Design, AI Integration, and Backend Development (Node.js)<br>💬 Chatbot Integration (OpenAI, WhatsApp, Website AI Assistants)<br>⚡ I enjoy building real-world products and turning ideas into working applications
+🔭 AI Property Operations Agent and AI Chatbot Solutions for Businesses<br>👯 Open Source Projects, AI-based Web Apps<br>🤝 Scaling SaaS Applications, Backend Architecture, and AI System Design<br>🌱 MERN, Next.js, System Design, AI Integration, and Backend Development (Node.js)<br>💬 Chatbot Integration (OpenAI, WhatsApp, Website AI Assistants)<br>⚡ I enjoy building real-world products and turning ideas into working applications.
 
 
 ## 🌐 Socials:
