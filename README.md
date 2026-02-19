@@ -2,7 +2,10 @@
 
 ### AI Frontend Developer building AI-powered web apps, automation tools, and scalable SaaS products.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavish00007&label=Profile views&color=0e75b6&style=flat" alt="bhavish00007" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhavish00007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 
 - 🔭 I'm currently working on **AI Chatbot Solutions and a MERN Stack projects.**
 
