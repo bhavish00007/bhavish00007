@@ -1,25 +1,25 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=bhavish00007&label=Visitors&color=0e75b6&style=flat" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhavish R K</h1>
 <h3 align="center">AI Frontend Developer building AI-powered web apps, automation tools, and scalable SaaS products</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavish00007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently working on **AI Chatbot Solutions and MERN Stack Projects**
-- 🌱 Learning **Next.js, System Design, TypeScript, and AI Integration**
-- 👯 Open to collaborate on **Open Source, AI Web Apps, and SaaS Products**
-- 🤝 Looking for help with **Advanced System Design & Scaling Full Stack Apps**
-- 💬 Ask me about **React, JavaScript, Tailwind, Node.js, Chatbot Integration (OpenAI, WhatsApp, Website AI)**
+- 🌱 Currently learning **Next.js, System Design, TypeScript, and AI Integration**
+- 👯 Looking to collaborate on **Open Source Projects, AI-based Web Applications, and SaaS Products**
+- 🤝 Looking for help with **Advanced System Design & Scaling Full Stack Applications**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS, Node.js, and Chatbot Integration (OpenAI, WhatsApp, Website AI Assistants)**
 - 📫 Reach me at **bhavishkolpe@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into real-world products**
+- ⚡ Fun fact: **I love turning ideas into real-world products and launching them**
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
 <a href="https://github.com/bhavish00007">
@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavish00007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavish00007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@
 ## 💼 Portfolio
 
 👨‍💻 All my projects:  
-👉 **https://github.com/bhavish00007**
+👉 https://github.com/bhavish00007
 
 ---
 
-⭐ *Always building. Always learning. Always shipping.*
+⭐ **Always building • Always learning • Always shipping**
