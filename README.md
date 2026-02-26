@@ -54,7 +54,7 @@
 ## 💼 Portfolio
 
 👨‍💻 All my projects:  
-👉 https://github.com/bhavish00007
+👉 https://bhavish07portfolio.vercel.app
 
 ---
 
