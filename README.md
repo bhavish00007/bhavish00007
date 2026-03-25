@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me.
 
 - 🔭 Currently working on **AI Chatbot Solutions and MERN Stack Projects**
 - 🌱 Currently learning **Next.js, System Design, TypeScript, and AI Integration**
