@@ -4,7 +4,6 @@
  
 <h1 align="center">Hi 👋, I'm Bhavish R K</h1>
 <h3 align="center">AI Frontend Developer building AI-powered web apps, automation tools, and scalable SaaS products.</h3>
-
 ---
 
 ## 🚀 About Me.
